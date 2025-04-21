@@ -33,9 +33,8 @@ Commands are validated based on the user's role (`mod`, `official`, `team`, `bos
 ## 🛠️ Setup
 
 1. Clone this repository.
-2. Install requirements via `pip install -r requirements.txt`
-3. Set your bot token and password in `main.py`.
-4. Run the bot using:
+2. Set your bot token and password in `main.py`.
+3. Run the bot using:
 
 ```bash
 python main.py
